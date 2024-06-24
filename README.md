@@ -1,6 +1,6 @@
 ![MasterHead](https://imagedelivery.net/-1Tjtddhb6lLGRUEZU6EgQ/d3eb8248-d480-4cc0-6ac0-00e09adbb800/public)
 <h1 align="center">Hi 👋, I'm Umut</h1>
-<h3 align="center">I am a cyber security expert in Cyprus and Türkiye</h3>
+<h3 align="center">I am a cyber security expert in Cyprus and Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theimam-2&label=Profile%20views&color=0e75b6&style=flat" alt="theimam-2" /> </p>
 
